@@ -19,9 +19,9 @@ class WeiboSpider(scrapy.Spider):
     # search = input('请输入查找的内容：')
     # page = input('请输入要爬取的页数：')
     
-    # username = '15518998507' # 微博账号
-    username = '15330297531' # 微博账号
-    password = 'haolu1129' # 微博密码
+    
+    username = 'xxxxxxxxxxx' # 微博账号
+    password = 'xxxxxx' # 微博密码
     # username = '18363833987'
     # password = '19960701liu'
     search = '微博签约作者'
