@@ -6,7 +6,7 @@ scrapy登录微博并爬取签约作者信息
 
 第二步，模拟登录
 
-进行这一步的时候需要先了解微博的登录机制，然后才能实现scrapy的模拟登录。用start_requests()代替start_url。
+进行这一步的时候需要先了解微博的登录机制，然后才能实现scrapy的模拟登录。用start_requests()代替start_urls。
 
 这里仅贴出一部分代码
 
