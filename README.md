@@ -163,7 +163,7 @@ scrapy登录微博并爬取签约作者信息
 
 结果展示：
 
-一共爬取了50页的信息：
+一共爬取了50页的信息(最多显示50页)：
 ![data.png](https://upload-images.jianshu.io/upload_images/14750449-5cd070d46a381014.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 一共988条数据，为什么不是整数呢？因为有的页面的数据是不足20条的，有17/19条的页面。
