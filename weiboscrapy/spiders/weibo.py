@@ -22,8 +22,6 @@ class WeiboSpider(scrapy.Spider):
     
     username = 'xxxxxxxxxxx' # 微博账号
     password = 'xxxxxx' # 微博密码
-    # username = '18363833987'
-    # password = '19960701liu'
     search = '微博签约作者'
     page = 51
     
